@@ -1,7 +1,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "IceCeram",
+    name: "IceCream",
     products: [
         .executable(name: "IceCream", targets: ["IceCream"]),
     ],
